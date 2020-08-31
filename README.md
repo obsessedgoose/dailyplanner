@@ -20,8 +20,8 @@ Text imput is saved into local storage.
 
 Third party usage
 
-*[Moment.js](https://momentjs.com/)
-*[Font Awesome](https://fontawesome.com/)
-*[Bootstrap](https://getbootstrap.com/)
+[Moment.js](https://momentjs.com/)</br>
+[Font Awesome](https://fontawesome.com/)</br>
+[Bootstrap](https://getbootstrap.com/)</br>
 
 
