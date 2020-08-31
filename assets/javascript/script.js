@@ -2,7 +2,7 @@
 
 var today = [
     {
-        id: "0", hour: "9", time: "9", meridiem: "AM", reminder: ""
+        id: "0", hour: "09", time: "09", meridiem: "AM", reminder: ""
     },
     {
         id: "1", hour: "10", time: "10", meridiem: "AM", reminder: ""
