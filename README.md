@@ -10,7 +10,7 @@ A daily planner that allows users to save tasks by the hour. The color of the ti
 
 Green - There is still time
 
-Yellow - Time is approaching to finish the task
+Red - Time is approaching to finish the task
 
 White - Past time
 
@@ -23,5 +23,7 @@ Third party usage
 [Moment.js](https://momentjs.com/)</br>
 [Font Awesome](https://fontawesome.com/)</br>
 [Bootstrap](https://getbootstrap.com/)</br>
+
+![Capture1](./images/capture1.jpeg)
 
 
